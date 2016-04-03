@@ -1,6 +1,19 @@
 body {
-    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    padding-top: 70px;
 }
-.intro{
+h1 {
+    letter-spacing: -0.3rem;
+}
+.intro {
     text-align: center;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+#modelpic {
+    height: 10%;
 }
